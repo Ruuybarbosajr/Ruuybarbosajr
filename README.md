@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ruy!</h1>
 
-<p align="center">software development student | <a href="https://www.betrybe.com/">Trybe</a> </p>
+- :books: I'm a student Development WEB at <a href="https://www.betrybe.com/">Trybe.</a> <br>
+- 📫 How to reach me: ruuybarbosajr@icloud.com
 
 <div>
   <a href="https://github.com/Ruuybarbosajr">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Ruuybarbosajr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuybarbosajr&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruuybarbosajr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
