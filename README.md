@@ -1,5 +1,7 @@
+<h1 align="center">Hi, I'm Ruy!</h1>
 
-##
+<p align="center">software development student | <a href="https://www.betrybe.com/">Trybe</a> </p>
+
 <div align="center">
   <a href="https://github.com/Ruuybarbosajr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruuybarbosajr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
