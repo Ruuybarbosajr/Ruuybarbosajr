@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Ruy!</h1>
-
-- :books: I'm a student Development WEB at <a href="https://www.betrybe.com/">Trybe.</a> <br>
+- :wave: Hi, I'm Ruy
+- :books: Software Development student at <a href="https://www.betrybe.com/">Trybe</a> :rocket: <br>
 - 📫 How to reach me: ruuybarbosajr@icloud.com
 
 <div>
