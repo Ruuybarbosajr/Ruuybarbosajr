@@ -19,4 +19,4 @@
 ![Snake animation](https://github.com/Ruuybarbosajr/Ruuybarbosajr/blob/output/github-contribution-grid-snake.svg)
 ##
   
-  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,figma&theme=dark)](https://skills.thijs.gg)
