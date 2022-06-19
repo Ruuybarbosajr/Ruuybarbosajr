@@ -10,7 +10,7 @@
 
 ##
   
-  [![My Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/ruuybarbosajr/)[![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ruybarbosajr/)
+  [![My Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/ruuybarbosajr/)  [![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ruybarbosajr/)
  
 ##
 
