@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/ruybarbosajr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   [![My Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/ruuybarbosajr/)
+  
   [![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ruybarbosajr/)
  
 ##
