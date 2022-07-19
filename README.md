@@ -1,8 +1,7 @@
 - :wave: Hi, I'm Ruy
 - 💻 Front-end Developer
 - :books: Software Development student at <a href="https://www.betrybe.com/">Trybe</a> :rocket: <br>
-
-- [![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ruybarbosajr/)
+- :email: ruuybarbosajr@icloud.com
 
 ##
 
