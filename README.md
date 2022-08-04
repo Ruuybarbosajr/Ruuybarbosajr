@@ -12,5 +12,5 @@
 
 ##
 
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,bootstrap,express,prisma,mysql,ts,docker,git,react,redux,jest&theme=dark)](#)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,nodejs,bootstrap,express,prisma,mysql,mongo,docker,git,react,redux,jest&theme=dark)](#)
   
