@@ -1,5 +1,5 @@
 - :wave: Hi, I'm Ruy
-- 💻 Front-end Developer
+- 💻 Full Stack Developer
 - :books: Software Development student at <a href="https://www.betrybe.com/">Trybe</a> :rocket: <br>
 - :email: ruuybarbosajr@icloud.com
 
